@@ -1,0 +1,227 @@
+[
+  {
+    "popular": [
+      {
+        "IceCream": [
+          {
+            "id": 1,
+            "Name": "Vanilla",
+            "img": "https://th.bing.com/th/id/R.520359ae901e5da711f152bfd7c57d87?rik=NCI7JMTc0x8A1A&riu=http%3a%2f%2fcdn.wallpapersafari.com%2f54%2f29%2fQkTlqt.png&ehk=tXXsfJ%2biB245p0K%2fIpEeHdO7AB0%2fXuWk%2fJfmaSOrAzM%3d&risl=&pid=ImgRaw&r=0",
+            "Price": 2.5
+          },
+          {
+            "id": 2,
+            "Name": "Chocolate",
+            "img": "https://stickysgarrison.com/wp-content/uploads/2019/07/ice-cream-cone-smaller-01.png",
+            "Price": 3.0
+          },
+          {
+            "id": 3,
+            "Name": "Strawberry",
+            "img": "https://cdn.shopify.com/s/files/1/1010/9416/products/0693-LSTK_2048x2048.png?v=1570470352",
+            "Price": 2.75
+          },
+          {
+            "id": 4,
+            "Name": "MintChocolateChip",
+            "img": "https://3.bp.blogspot.com/-yvRaLPO0xss/WZ45-ScTQRI/AAAAAAAADCE/sw5VnZ0hqFcTDAAskjiSJuIcynCi4qyEACLcBGAs/s1600/I-Ice%2BCream%2BCone.png",
+            "Price": 3.25
+          },
+          {
+            "id": 5,
+            "Name": "Cookies&Cream",
+            "img": "https://cdn0.iconfinder.com/data/icons/food-drinks-57/100/Ice_Cream-512.png",
+            "Price": 3.0
+          }
+        ],
+        "Teas": [
+          {
+            "id": 15,
+            "Name": "Green Tea",
+            "img": "",
+            "Price": 4.0
+          },
+          {
+            "id": 16,
+            "Name": "Oolong Tea",
+            "img": "",
+            "Price": 3.5
+          },
+          {
+            "id": 17,
+            "Name": "Black Tea",
+            "img": "",
+            "Price": 4.5
+          },
+          {
+            "id": 18,
+            "Name": "White Tea",
+            "img": "",
+
+            "Price": 5.0
+          },
+          {
+            "id": 19,
+            "Name": "Herbal Tea",
+            "img": "",
+
+            "Price": 3.0
+          }
+        ],
+        "chicken": [
+          {
+            "id": 51,
+            "Name": "Fried Chicken",
+            "img": "",
+
+            "Price": 10.99
+          },
+          {
+            "id": 52,
+            "Name": "Grilled Chicken",
+            "img": "",
+
+            "Price": 9.99
+          },
+          {
+            "id": 53,
+            "Name": "BBQ Chicken",
+            "img": "",
+
+            "Price": 12.99
+          },
+          {
+            "id": 54,
+            "Name": "Teriyaki Chicken",
+            "img": "",
+
+            "Price": 11.99
+          },
+          {
+            "id": 55,
+            "Name": "Kung Pao Chicken",
+            "img": "",
+
+            "Price": 10.99
+          }
+        ],
+        "Coffee": [
+          {
+            "id": 81,
+            "Name": "Espresso",
+            "img": "",
+
+            "Price": 2.5
+          },
+          {
+            "id": 82,
+            "Name": "Cappuccino",
+            "img": "",
+
+            "Price": 3.5
+          },
+          {
+            "id": 83,
+            "Name": "Latte",
+            "img": "",
+
+            "Price": 3.0
+          },
+          {
+            "id": 84,
+            "Name": "Cold Brew",
+            "img": "",
+
+            "Price": 4.0
+          },
+          {
+            "id": 85,
+            "Name": "Mocha",
+            "img": "",
+
+            "Price": 3.5
+          },
+          {
+            "id": 86,
+            "Name": "Macchiato",
+            "img": "",
+
+            "Price": 3.5
+          }
+        ],
+        "Potatoes": [
+          {
+            "id": 91,
+            "Name": "Russet Potatoes",
+            "img": "",
+
+            "Price": 2.99
+          },
+          {
+            "id": 92,
+            "Name": "Red Potatoes",
+            "img": "",
+
+            "Price": 3.49
+          },
+          {
+            "id": 93,
+            "Name": "Yukon Gold Potatoes",
+            "img": "",
+
+            "Price": 3.59
+          },
+          {
+            "id": 94,
+            "Name": "Fingerling Potatoes",
+            "img": "",
+
+            "Price": 4.99
+          },
+          {
+            "id": 95,
+            "Name": "Purple Potatoes",
+            "img": "",
+
+            "Price": 3.79
+          }
+        ],
+        "HotDogs": [
+          {
+            "id": 101,
+            "Name": "Beef Hot Dog",
+            "img": "",
+
+            "Price": 3
+          },
+          {
+            "id": 102,
+            "Name": "Kielbasa",
+            "img": "",
+
+            "Price": 5
+          },
+          {
+            "id": 103,
+            "Name": "Veggie Hot Dog",
+            "img": "",
+
+            "Price": 2
+          },
+          {
+            "id": 104,
+            "Name": "Smoked Sausage",
+            "img": "",
+            "Price": 4
+          },
+          {
+            "id": 105,
+            "Name": "Bratwurst",
+            "img": "",
+            "Price": 4
+          }
+        ]
+      }
+    ]
+  }
+]
